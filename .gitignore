@@ -1,0 +1,20 @@
+# Maven target folders
+**/target/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.iml
+.idea/
+*.class
+
+# Logs
+*.log
+
+# Java crash logs
+hs_err_pid*
